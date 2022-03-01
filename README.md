@@ -10,15 +10,15 @@ Prodi : D3 MI <br/>
 ## Hasil Praktikum
 
 ### 1. Text Widget
-<img src="img/screnshoot/1.png" alt="drawing" width="300"/>
+<img src="img/screenshoot/1.png" alt="drawing" width="300"/>
 <br/>
 
 ### 2. Image Widget
-<img src="img/screnshoot/2.png" alt="drawing" width="300"/>
+<img src="img/screenshoot/2.png" alt="drawing" width="300"/>
 <br/>
 
 ### 3. Material Design dan iOS Cupertino
-<img src="img/screnshoot/3.png" alt="drawing" width="300"/>
+<img src="img/screenshoot/3.png" alt="drawing" width="300"/>
 <br/>
 
 ### 4. Button
@@ -42,7 +42,7 @@ Prodi : D3 MI <br/>
 <br/>
 
 ### 9. Container Property Child
-<img src="img/scrennshoot/9.png" alt="drawing" width="300"/>
+<img src="img/screenshoot/9.png" alt="drawing" width="300"/>
 <br/>
 
 ### 10. Container Property Alignment
