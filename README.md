@@ -22,7 +22,7 @@ Prodi : D3 MI <br/>
 <br/>
 
 ### 4. Button
-<img src="img/screnshoot/4.png" alt="drawing" width="300"/>
+<img src="img/screenshoot/4.png" alt="drawing" width="300"/>
 <br/>
 
 ### 5. Scaffold
